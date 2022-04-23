@@ -1,6 +1,6 @@
 # Quiz App built with HTML, CSS, and JavaScript
 
-[Live Demo](https://jolly-fermi-65e2e4.netlify.app/)
+[Live Demo](https://quick-quiz-app-demo.netlify.app/)
 
 ## Quiz App built with HTML, CSS, and JavaScript
 
